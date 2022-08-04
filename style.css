@@ -1,0 +1,36 @@
+.heading {
+    font-size: 22px;
+    width: 90%;
+    margin: 0px;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px aqua;
+    font-family: 'Special Elite', cursive;
+    color:aqua
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: chartreuse;
+    width: 100%;
+    bottom: 0;
+    background-color: blue;
+    font-size: 24;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+}
+
+.Note {
+    font-size: 22px;
+    color: black;
+}
+
+body {
+    background-image: url('https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQWSEeAMwtqMaC7YO-9Vtrljj3c3J7GFTdsTQ7YR1J6b4ygMkGGD1XnZ6-p3ISMnSJsV55Ov-AEXFykuh-a8TBLKOcgbW6jRj_XAEEJ7FBmWGg90qDpZHJfne_Od_JVOdkMNhcpHr9roeWGd6Eca0bRAY.jpg?r=b70')
+}
+
+    canvas {
+    border-radius: 20px;
+    border: 5px solid blue;
+    box-shadow: 10px 10px 10px green;
+}
